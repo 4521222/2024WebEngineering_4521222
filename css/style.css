@@ -1,0 +1,60 @@
+html{
+    background-color: bisque;
+    color:#444444;
+}
+
+img{
+    max-width:100%;
+}
+
+h1,
+h3,
+p{
+    text-align: center;
+}
+
+
+.artist{
+    margin:0 100px;
+}
+
+.mga,
+.Nissy{
+    margin-bottom:50px;
+}
+
+.mga{
+    padding-top:30px;
+    border:2px solid rgb(0, 128, 23);
+    background-color: #ffffff;
+}
+
+.Nissy{
+    padding-top:30px;
+    border:2px solid rgb(208, 34, 21);
+    background-color: #ffffff;
+}
+
+.sumika{
+    padding-top:30px;
+    border:2px solid #93c7ff;
+    background-color: #ffffff;
+}
+.artist-img{
+    display:flex;
+    justify-content: center;
+    margin:0 auto;
+    gap:30px;
+    width:50%;
+    height:auto;
+    
+    
+}
+
+
+iframe{
+    height:350px;
+    aspect-ratio: 9/16;
+    width:auto;
+    
+}
